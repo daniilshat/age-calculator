@@ -6,7 +6,7 @@ Simple vanilla JS age calculator
 + CSS;
 + Vanilla JavaScript;  
 
-You can [try](https://codepen.io/daniilshat/pen/LYOPmrb) it online.
+You can [try](https://codepen.io/daniilshat/pen/LYOPmrb) it online on CodePen.
 
 ## Screenshots
 
